@@ -9,8 +9,6 @@ As a cybersecurity professional, I am committed to ensuring the safety and secur
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/drumin/) 📫. 
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="550"> 
-
 <!--
 **drumin/drumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img align="right" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" height="230">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="550"> 
 -->
